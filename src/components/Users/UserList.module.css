@@ -1,0 +1,26 @@
+.main {
+  margin: 2rem auto;
+  margin-top: 5em;
+  width: min(40rem, 65%);
+  font-style: 500;
+}
+.header {
+  background: purple;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  padding: 0.5rem 0.75rem;
+  margin: 0 0.5rem;
+  cursor: pointer;
+  width: 7rem;
+}
+.main ul {
+  list-style: none;
+  padding: 0 0.5rem;
+  text-align: start;
+}
+.main li {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+}
